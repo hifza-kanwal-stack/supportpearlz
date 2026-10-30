@@ -1,0 +1,1 @@
+# Warranty Policy\nDocument Type: policy | Version: 3.0\n- Covers body, pump, electronics for 24 months. Consumables (filters) excluded.

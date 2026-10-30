@@ -1,0 +1,1 @@
+# Product Manual: AquaPearl 500 Pro\nDocument Type: manual | Version: 2.1\n- E-03: Intermittent audible alarm indicating filter saturation (sediment pre-filter). Action: replace pre-filter and hold RESET for 5 seconds.

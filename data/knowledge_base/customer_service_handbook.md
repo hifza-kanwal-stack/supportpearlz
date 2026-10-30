@@ -1,0 +1,1 @@
+# CS Handbook\n- Tone: empathetic and concise.

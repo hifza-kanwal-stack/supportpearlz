@@ -1,0 +1,1 @@
+# FAQ\n- Q: Warranty duration? A: 24 months.\n- Q: Student discounts? A: Not covered.

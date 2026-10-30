@@ -1,0 +1,1 @@
+# Changelog\n- Firmware 2.4 updated E-03.

@@ -1,0 +1,1 @@
+# Refund Policy\nDocument Type: policy | Version: 1.5\n- 30 days unopened, 14 days opened with 10% restocking fee.

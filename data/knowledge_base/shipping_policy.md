@@ -1,0 +1,1 @@
+# Shipping Policy\nDocument Type: policy | Version: 2.0\n- Metro 1-2 days. Remote (Skardu) 5-7 days, no next day.
